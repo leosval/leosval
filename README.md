@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Escribir un prompt JSON de excelente calidad, precisión, exactitud para Nano Banana Pro, para generar realismo humano natural absoluto. Requiere de conocimientos de programación y/o uso de comandos/directrices/pasos donde una IA use conocimientos de programación/ingeniería de software/revisión de código en profundidad?
+
+De ser así, cómo me ayudarías con esto? Podrías ayudarme a hacer el mejor trabajo posible y sus respectivos pasos?
+
